@@ -1,6 +1,6 @@
 ﻿# vue_qqmap
 
-> 腾讯地图vue组件，实现异步加载腾讯地图，坐标选取功能
+> 腾讯地图vue组件，实现异步加载腾讯地图，坐标拾取器，支持按城市名称搜索。
 ![此处输入图片的描述][1]
 
          <mapselect :mapcenter="centerLatLng" :oldmarker="oldMarker" @mapclick="pointChange"></mapselect>
