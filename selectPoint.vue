@@ -151,5 +151,5 @@
     .qqmap { width: 900px; height: 600px; }
     .mapWrap{ position: relative; width: 700px; height: 600px; overflow: hidden; }
     .lngTips{ display: none; width: 255px; height: 40px; padding:5px 7px; overflow: hidden; position: absolute; left: 0; top: 0; z-index: 123456; background: #ffffff; border-radius: 5px;
-        line-height: 20px; box-shadow: #eee 1px 1px 3px; border: #eee 1px solid; }
+        line-height: 20px; box-shadow: #eee 1px 1px 3px; border: #eee 1px solid; font-size: 12px; }
 </style>
